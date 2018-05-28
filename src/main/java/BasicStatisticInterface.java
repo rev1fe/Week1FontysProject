@@ -64,4 +64,5 @@ public interface BasicStatisticInterface {
      * @return median value of data items
      */
     double getStandardDeviation() throws NoDataItemsException;
+
 }
